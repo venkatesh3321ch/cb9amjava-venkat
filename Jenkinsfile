@@ -2,7 +2,7 @@ pipeline {
     agent any 
     tools {
          maven 'maven'
-         jdk 'java'
+         jdk 'JAVA'
     }
     stages {
         stage('Stage-0 : Sonar Code Analysis') { 
