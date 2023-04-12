@@ -2,8 +2,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.aws.codestar.projecttemplates</groupId>
-    <artifactId>venkatjfrog13</artifactId>
-    <version>1.1.13</version>
+    <artifactId>venkatjfrog14</artifactId>
+    <version>1.1.14</version>
     <packaging>war</packaging>
     <name>Venkat Sample Spring MVC Application</name>
 
@@ -20,7 +20,7 @@
         -->
     </properties>
 
-    
+    <!--
     <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
@@ -33,7 +33,7 @@
         <name>libs-release-local</name>
         <url>http://107.21.70.16:8082/artifactory/libs-release-local/</url>
     </repository>	
-        
+    -->    
 </distributionManagement>
     
     <dependencies>
