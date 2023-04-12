@@ -20,7 +20,7 @@
         -->
     </properties>
 
-    <!--
+    
     <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
@@ -34,7 +34,7 @@
         <url>http://107.21.70.16:8082/artifactory/libs-release-local/</url>
     </repository>	
     </distributionManagement>
-    -->
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
