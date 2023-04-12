@@ -33,9 +33,8 @@
         <name>libs-release-local</name>
         <url>http://107.21.70.16:8082/artifactory/libs-release-local/</url>
     </repository>	
-    -->    
-</distributionManagement>
-    
+    </distributionManagement>
+    -->
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
